@@ -1,0 +1,31 @@
+.navbar-expand-md .navbar-nav .nav-link {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+header {
+    background-image: url(images/laurel-balyeat-ExarETx4xNA-unsplash.jpg);
+}
+
+.consult {
+    background-color: rgb(233, 233, 233);
+}
+
+.Lorem {
+    background-color: rgb(211, 211, 211);
+}
+
+.customBtn {
+    color: black;
+    background-color: white;
+    padding-left: 45px;
+    padding-right: 45px;
+}
+
+footer {
+    background-color: rgb(255, 245, 225);
+}
+
+footer img {
+    width: 120px;
+}
